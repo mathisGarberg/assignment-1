@@ -1,0 +1,30 @@
+
+body {
+	padding: 50px 100px;
+	font-size: 13px;
+	font-style: Verdana, Tahoma, sans-serif;
+}
+
+.deposits {
+	color: #009900;
+}
+
+.withdrawals {
+  color: #F5524A;
+}
+
+#button {
+	margin-bottom: 25px;
+}
+
+.form_required {
+	color: red;
+}
+
+.required {
+	color: red;
+}
+
+#dropdown {
+	color: #000;
+}

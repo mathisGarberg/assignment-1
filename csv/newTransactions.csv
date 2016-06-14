@@ -1,0 +1,8 @@
+transid,sum,balance,currency,type,accountnumber,description
+t56f43dd5575e2,-1500,31000,NOK,Varekjøp,25011000009,Komplett
+t56f43dd5575e2,200,31000,NOK,Overføring,25011000009,George Best
+t56f43dd5575e3,250,31000,NOK,Overføring,25011000009,Joe Weller
+t56f43dd5575e4,500,31000,NOK,Overføring,25011000009,Håvard Nilsen
+t56f43dd5575e5,-270,31000,NOK,Varekjøp,25011000009,G Sport
+t56f43dd5575e6,-350,31000,NOK,Varekjøp,25011000009,Rimi Kirkeby
+t56f43dd5575e6,500,31000,NOK,Lønn,25011000009,Adolf
